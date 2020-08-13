@@ -5,5 +5,5 @@ setup(name='resnetattention',
       description='Python Distribution Utilities',
       author='TakaoNarikawa',
       author_email='takao.narikawa@gmail.com',
-      packages=find_packages(),
+      packages=['resnet'],
      )
