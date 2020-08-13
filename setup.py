@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup, Command
 
-setup(name='resnet_attention',
+setup(name='resnetattention',
       version='1.0',
       description='Python Distribution Utilities',
       author='TakaoNarikawa',
